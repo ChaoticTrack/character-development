@@ -4,13 +4,6 @@
 
 using namespace std;
 
-/*
-int checkPoints(inputStrength)
-{
-    if ()
-}
-*/
-
 int main()
 {
     int selfStrength,
